@@ -1,0 +1,8 @@
+celery
+eventlet
+isodate
+kombu
+mainline
+publicsuffixlist
+pytube
+redis
